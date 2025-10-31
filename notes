@@ -1,0 +1,17 @@
+Units- 
+
+px - fixed 
+% - depending on parent 
+vw - viewport width (depending on screen width)
+vh - viewport height (depending on screen height)
+vmax- viewport maximum
+vmin- viewport minimum
+em - parent ko value de or sare childs ko em me value dedo  or parent ki value change karenge to sare childs ki value bhi change hogi
+rem - 16px( according to the root)
+ch -  ye kisi bhi word me kitane charecter hai unper focuse karta hai , es 'ch' se ham ye diside kar sakte hai ki one line me kitane charecter aayenge
+lh -  ye two santance ya word ke bich gap abanata hai . 
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content:space-evenly;
